@@ -1,0 +1,2 @@
+# No external dependencies - using only Python standard library
+# This version will work without any pip installations

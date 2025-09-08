@@ -1,0 +1,1 @@
+# Audit module for Local AI Assistant

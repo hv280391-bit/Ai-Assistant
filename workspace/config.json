@@ -1,0 +1,15 @@
+{
+  "users": {
+    "admin": {
+      "password_hash": "61a7e5e6db29cb45272fe82baa3c8a890fe18872006781ec3451df1ad0cfe71e",
+      "role": "admin",
+      "email": "hv280391@gmail.com",
+      "created_at": "2025-09-08T12:29:57.166623"
+    }
+  },
+  "configured": true,
+  "settings": {
+    "max_sessions": 10,
+    "session_timeout": 3600
+  }
+}

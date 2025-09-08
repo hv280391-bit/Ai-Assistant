@@ -1,0 +1,1 @@
+# Tools module for Local AI Assistant
